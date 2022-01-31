@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **NodeJs**
 
-- 👨‍💻 All of my projects are available at [https://www.codigoandres.com](https://www.codigoandres.com)
+- 👨‍💻 All of my projects are available at [https://andreshernandez.ninja](https://andreshernandez.ninja)
 
-- 📝 I regularly write articles on [https://www.codigoandres.com/blog](https://www.codigoandres.com/blog)
+- 📝 I regularly write articles on [https://andreshernandez.ninja](https://andreshernandez.ninja)
 
 - 💬 Ask me about **React and React Native**
 
-- 📫 How to reach me **hello@codigoandres.com**
+- 📫 How to reach me **hello@andreshernandez.ninja**
 
-- 📄 Know about my experiences [https://www.codigoandres.com](https://www.codigoandres.com)
+- 📄 Know about my experiences [https://andreshernandez.ninja](https://andreshernandez.ninja)
 
 - ⚡ Fun fact **I like play video Games**
 
